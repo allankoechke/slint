@@ -11,6 +11,7 @@ desktop, and mobile applications written in Rust, C++, JavaScript, or Python.
 
 The name *Slint* is derived from our design goals:
 
+
 - **Scalable**: Slint should support responsive UI design, allow cross-platform
     usage across operating systems and processor architectures and support
     multiple programming languages.
